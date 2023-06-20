@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "Chef PictureLink": "https://example.com/chef1.jpg",
+        "Bio/Description": "Passionate chef specializing in Italian cuisine. Loves experimenting with flavors and creating unique recipes.",
+        "Chef Name": "John Smith",
+        "recipeName": "Spaghetti Carbonara",
+        "recipeCookingMethodDetails": "1. Boil water and cook spaghetti.\n2. In a pan, fry bacon until crispy.\n3. In a bowl, whisk eggs, grated cheese, and black pepper.\n4. Drain cooked spaghetti and add it to the pan with bacon.\n5. Turn off the heat and pour the egg mixture over the spaghetti.\n6. Toss everything together until the sauce thickens.\n7. Serve hot and garnish with extra cheese and parsley.",
+        "Rating": 4.5,
+        "Years of experience": 10,
+        "Numbers of recipes": 50,
+        "Likes": 500,
+        "View Recipes Button": true
+    },
+    {
+        "id": 2,
+        "Chef PictureLink": "https://example.com/chef2.jpg",
+        "Bio/Description": "A skilled pastry chef with a passion for creating delightful desserts. Known for combining classic techniques with a modern twist.",
+        "Chef Name": "Emily Johnson",
+        "recipeName": "Grilled Salmon",
+        "recipeCookingMethodDetails": "1. Preheat grill to medium-high heat.\n2. Season salmon fillets with salt, pepper, and lemon juice.\n3. Place salmon on the grill, skin-side down.\n4. Grill for about 4-5 minutes per side, or until desired doneness.\n5. Remove from grill and let it rest for a few minutes.\n6. Serve hot with your favorite side dishes.",
+        "Rating": 4.8,
+        "Years of experience": 8,
+        "Numbers of recipes": 70,
+        "Likes": 800,
+        "View Recipes Button": true
+    },
+    {
+        "id": 3,
+        "Chef PictureLink": "https://example.com/chef3.jpg",
+        "Bio/Description": "Experienced chef specializing in Asian cuisine. Master of traditional cooking techniques and expert in creating authentic flavors.",
+        "Chef Name": "Michael Davis",
+        "recipeName": "Chocolate Chip Cookies",
+        "recipeCookingMethodDetails": "1. Preheat oven to 350°F (175°C).\n2. In a bowl, cream together butter, white sugar, and brown sugar.\n3. Beat in eggs and vanilla extract.\n4. In a separate bowl, combine flour, baking soda, and salt.\n5. Gradually add the dry ingredients to the butter mixture.\n6. Stir in chocolate chips.\n7. Drop rounded tablespoons of dough onto a baking sheet.\n8. Bake for 8-10 minutes or until golden brown.\n9. Let cookies cool on the baking sheet for a few minutes, then transfer to a wire rack to cool completely.",
+        "Rating": 4.9,
+        "Years of experience": 12,
+        "Numbers of recipes": 90,
+        "Likes": 1200,
+        "View Recipes Button": true
+    },
+    {
+        "id": 4,
+        "Chef PictureLink": "https://example.com/chef4.jpg",
+        "Bio/Description": "Passionate about farm-to-table cooking. Creates delicious and healthy dishes using locally sourced ingredients.",
+        "Chef Name": "Sophia Anderson",
+        "recipeName": "Chocolate Chip Cookies",
+        "recipeCookingMethodDetails": "1. Preheat oven to 350°F (175°C).\n2. In a bowl, cream together butter, white sugar, and brown sugar.\n3. Beat in eggs and vanilla extract.\n4. In a separate bowl, combine flour, baking soda, and salt.\n5. Gradually add the dry ingredients to the butter mixture.\n6. Stir in chocolate chips.\n7. Drop rounded tablespoons of dough onto a baking sheet.\n8. Bake for 8-10 minutes or until golden brown.\n9. Let cookies cool on the baking sheet for a few minutes, then transfer to a wire rack to cool completely.",
+        "Rating": 4.2,
+        "Years of experience": 6,
+        "Numbers of recipes": 40,
+        "Likes": 300,
+        "View Recipes Button": true
+    },
+    {
+        "id": 5,
+        "Chef PictureLink": "https://example.com/chef5.jpg",
+        "Bio/Description": "Celebrity chef with a flair for fusion cuisine. Combines elements from different culinary traditions to create exciting and unique dishes.",
+        "recipeName": "Grilled Salmon",
+        "recipeCookingMethodDetails": "1. Preheat grill to medium-high heat.\n2. Season salmon fillets with salt, pepper, and lemon juice.\n3. Place salmon on the grill, skin-side down.\n4. Grill for about 4-5 minutes per side, or until desired doneness.\n5. Remove from grill and let it rest for a few minutes.\n6. Serve hot with your favorite side dishes.",
+        "Cooking Method": "Rolling",
+        "Rating": 4.7,
+        "Years of experience": 15,
+        "Numbers of recipes": 120,
+        "Likes": 1500,
+        "View Recipes Button": true
+    },
+    {
+        "id": 6,
+        "Chef PictureLink": "https://example.com/chef5.jpg",
+        "Bio/Description": "Olivia Thompson is a talented chef with a passion for creating vibrant and wholesome dishes. With a focus on nutritious ingredients and creative flavor combinations, Olivia's recipes cater to health-conscious food lovers. From nourishing Buddha bowls to colorful smoothie bowls, her creations are as visually appealing as they are nutritious. With 9 years of experience, Olivia's culinary expertise shines through in every dish she creates. .",
+        "Chef Name": "Olivia Thompson",
+        "recipeName": "Spaghetti Carbonara",
+        "recipeCookingMethodDetails": "1. Boil water and cook spaghetti.\n2. In a pan, fry bacon until crispy.\n3. In a bowl, whisk eggs, grated cheese, and black pepper.\n4. Drain cooked spaghetti and add it to the pan with bacon.\n5. Turn off the heat and pour the egg mixture over the spaghetti.\n6. Toss everything together until the sauce thickens.\n7. Serve hot and garnish with extra cheese and parsley.",
+        "Rating": 3.7,
+        "Years of experience": 7,
+        "Numbers of recipes": 190,
+        "Likes": 1360,
+        "View Recipes Button": true
+    }
+]

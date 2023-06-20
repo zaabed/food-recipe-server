@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "_id": "1",
         "Chef PictureLink": "https://example.com/chef1.jpg",
         "Bio/Description": "Passionate chef specializing in Italian cuisine. Loves experimenting with flavors and creating unique recipes.",
         "Chef Name": "John Smith",
@@ -13,12 +13,12 @@
         "View Recipes Button": true
     },
     {
-        "id": 2,
+        "_id": "2",
         "Chef PictureLink": "https://example.com/chef2.jpg",
         "Bio/Description": "A skilled pastry chef with a passion for creating delightful desserts. Known for combining classic techniques with a modern twist.",
         "Chef Name": "Emily Johnson",
         "recipeName": "Grilled Salmon",
-        "recipeCookingMethodDetails": "1. Preheat grill to medium-high heat.\n2. Season salmon fillets with salt, pepper, and lemon juice.\n3. Place salmon on the grill, skin-side down.\n4. Grill for about 4-5 minutes per side, or until desired doneness.\n5. Remove from grill and let it rest for a few minutes.\n6. Serve hot with your favorite side dishes.",
+        "recipeCookingMethodDetails": "1. Preheat grill to medium-high heat.\n2. Season salmon fillets with salt, pepper, and lemon juice.\n3. Place salmon on the grill, skin-s_ide down.\n4. Grill for about 4-5 minutes per s_ide, or until desired doneness.\n5. Remove from grill and let it rest for a few minutes.\n6. Serve hot with your favorite s_ide dishes.",
         "Rating": 4.8,
         "Years of experience": 8,
         "Numbers of recipes": 70,
@@ -26,7 +26,7 @@
         "View Recipes Button": true
     },
     {
-        "id": 3,
+        "_id": "3",
         "Chef PictureLink": "https://example.com/chef3.jpg",
         "Bio/Description": "Experienced chef specializing in Asian cuisine. Master of traditional cooking techniques and expert in creating authentic flavors.",
         "Chef Name": "Michael Davis",
@@ -39,7 +39,7 @@
         "View Recipes Button": true
     },
     {
-        "id": 4,
+        "_id": "4",
         "Chef PictureLink": "https://example.com/chef4.jpg",
         "Bio/Description": "Passionate about farm-to-table cooking. Creates delicious and healthy dishes using locally sourced ingredients.",
         "Chef Name": "Sophia Anderson",
@@ -52,11 +52,11 @@
         "View Recipes Button": true
     },
     {
-        "id": 5,
+        "_id": "5",
         "Chef PictureLink": "https://example.com/chef5.jpg",
         "Bio/Description": "Celebrity chef with a flair for fusion cuisine. Combines elements from different culinary traditions to create exciting and unique dishes.",
         "recipeName": "Grilled Salmon",
-        "recipeCookingMethodDetails": "1. Preheat grill to medium-high heat.\n2. Season salmon fillets with salt, pepper, and lemon juice.\n3. Place salmon on the grill, skin-side down.\n4. Grill for about 4-5 minutes per side, or until desired doneness.\n5. Remove from grill and let it rest for a few minutes.\n6. Serve hot with your favorite side dishes.",
+        "recipeCookingMethodDetails": "1. Preheat grill to medium-high heat.\n2. Season salmon fillets with salt, pepper, and lemon juice.\n3. Place salmon on the grill, skin-s_ide down.\n4. Grill for about 4-5 minutes per s_ide, or until desired doneness.\n5. Remove from grill and let it rest for a few minutes.\n6. Serve hot with your favorite s_ide dishes.",
         "Cooking Method": "Rolling",
         "Rating": 4.7,
         "Years of experience": 15,
@@ -65,7 +65,7 @@
         "View Recipes Button": true
     },
     {
-        "id": 6,
+        "_id": "6",
         "Chef PictureLink": "https://example.com/chef5.jpg",
         "Bio/Description": "Olivia Thompson is a talented chef with a passion for creating vibrant and wholesome dishes. With a focus on nutritious ingredients and creative flavor combinations, Olivia's recipes cater to health-conscious food lovers. From nourishing Buddha bowls to colorful smoothie bowls, her creations are as visually appealing as they are nutritious. With 9 years of experience, Olivia's culinary expertise shines through in every dish she creates. .",
         "Chef Name": "Olivia Thompson",
